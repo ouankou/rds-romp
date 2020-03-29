@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd /home/rds/rds-tsan && python3 Flask_TSan.py
+cd /home/rds/rds-romp && python3 Flask_ROMP.py
